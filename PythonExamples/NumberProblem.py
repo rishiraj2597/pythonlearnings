@@ -19,10 +19,7 @@ def log10(var):
 
 
 def mathActions():
-    var1=10
-    var2=20
-
-    print("Enter two real numbers for Addition , Subtraction , Multiplication , Division and Log(base10):")
+    
     var1=int(sys.argv[1])
     var2=int(sys.argv[2])
 
