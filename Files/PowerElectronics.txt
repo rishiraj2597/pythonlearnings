@@ -1,0 +1,14 @@
+Power electronics is the application of electronics to the control and conversion of electric power.
+The first high-power electronic devices were made using mercury-arc valves.
+In modern systems, the conversion is performed with semiconductor switching devices such as diodes, thyristors, and power transistors such as the power MOSFET and IGBT. In contrast to electronic systems concerned with the transmission and processing of signals and data, substantial amounts of electrical energy are processed in power electronics.
+An AC/DC converter (rectifier) is the most typical power electronics device found in many consumer electronic devices, e.g. television sets, personal computers, battery chargers, etc.
+The power range is typically from tens of watts to several hundred watts.
+In industry, a common application is the variable speed drive (VSD) that is used to control an induction motor.
+The power range of VSDs starts from a few hundred watts and ends at tens of megawatts.
+Power electronics started with the development of the mercury arc rectifier.
+Invented by Peter Cooper Hewitt in 1902, it was used to convert alternating current (AC) into direct current (DC). From the 1920s on, research continued on applying thyratrons and grid-controlled mercury arc valves to power transmission.
+Uno Lamm developed a mercury valve with grading electrodes making them suitable for high voltage direct current power transmission. In 1933 selenium rectifiers were invented.
+Julius Edgar Lilienfeld proposed the concept of a field-effect transistor in 1926, but it was not possible to actually construct a working device at that time.[2] In 1947, the bipolar point-contact transistor was invented by Walter H.
+Brattain and John Bardeen under the direction of William Shockley at Bell Labs.
+In 1948 Shockley's invention of the bipolar junction transistor (BJT) improved the stability and performance of transistors, and reduced costs. By the 1950s, higher power semiconductor diodes became available and started replacing vacuum tubes.
+In 1956, the silicon controlled rectifier (SCR) was introduced by General Electric, greatly increasing the range of power electronics applications.By the 1960s, the improved switching speed of bipolar junction transistors had allowed for high frequency DC/DC converters.
